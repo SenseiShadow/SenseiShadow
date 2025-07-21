@@ -12,7 +12,12 @@
 ---
 
 ### 🎧 Escuchando ahora
-[![Spotify](https://novatorem-senseishadow.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/6G2xXQRSZlEzYsUEb3uvuR?si=20509313b8704001)
+
+[![Now Playing: Nigel Good – This Is You](https://i.scdn.co/image/ab67616d0000b27350898b591f1a1b1ff7836593)](https://open.spotify.com/intl-es/track/6G2xXQRSZlEzYsUEb3uvuR?si=20b8e57d0aa146db)  
+**🎵 This Is You – Nigel Good**  
+[🔗 Escuchar en Spotify](https://open.spotify.com/intl-es/track/6G2xXQRSZlEzYsUEb3uvuR?si=20b8e57d0aa146db)
+
+![Visualizer](https://raw.githubusercontent.com/kittinan/spotify-now-playing/master/images/spotify-now-playing.gif)
 
 ---
 
