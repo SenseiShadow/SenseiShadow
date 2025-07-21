@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy HANNIBAL-THO</h1>
+<h1 align="center">¡Hola! 👋 SenseiShadow</h1>
 
 <p align="center">
   <i>Desarrollador apasionado | Creador de código por aburrimiento | Entusiasta de la tecnología</i>
@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>📊 Estadísticas de GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=HANNIBAL-THO&show_icons=true&theme=gotham" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SenseiShadow&show_icons=true&theme=gotham" alt="Estadísticas de GitHub" />
 </div>
 
 <div align="center">
